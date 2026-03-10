@@ -1,1 +1,2 @@
 # AmazonClone
+Author - Sonia Harwani
